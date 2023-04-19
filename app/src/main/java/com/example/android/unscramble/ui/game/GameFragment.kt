@@ -84,7 +84,6 @@ class GameFragment : Fragment() {
             setErrorTextField(true)
         }
     }
-
     /*
      * Skips the current word without changing the score.
      * Increases the word count.
